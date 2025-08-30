@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)](https://anshcc01.io)
+
 <h1 align="center">Hi 👋, I'm SAURABH UPADHYAY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
